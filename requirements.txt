@@ -1,0 +1,5 @@
+   requests
+    beautifulsoup4  # if you use web scraping 
+    google-api-python-client # If you use YouTube API
+    google-auth-httplib2
+    google-auth-oauthlib
